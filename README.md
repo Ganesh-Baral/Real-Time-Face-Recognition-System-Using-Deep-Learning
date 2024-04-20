@@ -58,8 +58,7 @@ the frontend.
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
- git clone https://github.com/Ganesh-Baral/Real-Time-Face-Recognition-System-Using-Deep-Learning.git 
+   ```bash https://github.com/Ganesh-Baral/Real-Time-Face-Recognition-System-Using-Deep-Learning.git 
    
 
 ## Example usage
